@@ -1,0 +1,67 @@
+body{ 
+        background-color: rgb(152, 152, 202);
+    }
+
+.oi{ 
+     background-color: blueviolet; 
+     width: 800px;
+    }
+
+.oi2{
+     background-color: blueviolet; 
+        width: 800px;
+    }
+
+.oi3{
+     background-color: blueviolet;
+        width: 800px;
+    }
+
+.oi4{
+        background-color: blueviolet;
+     width: 800px;
+    }
+
+.h1{
+     text-align: center;
+    }
+
+    .cn{
+        text-align: center;
+    }
+
+.d1{
+     width: 50%;
+      border: 2px solid #000;
+      height: 25px;
+      font-size: 15px;
+      padding-left:10px;
+      
+    }
+
+.d2{
+        width: 50%;
+        border: 2px solid #000;
+       height: 25px;
+       font-size: 15px;
+       padding-left:10px ;
+}
+
+.d4{
+    width: 50%;
+    border: 2px solid #000;
+   height: 25px;
+   font-size: 15px;
+   padding-left:10px ;
+}
+
+
+    .en{
+        width: 10%;
+        height: 30px;
+    }
+
+    .img{
+        width: 200px;
+        height: 200px;
+    }
